@@ -66,6 +66,12 @@ input[type="text"] {
   
 }
 
+.strike2{
+
+  text-decoration: none;
+}
+
+
 input[type="text"]:focus {
   color: #333;
 }
