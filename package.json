@@ -1,0 +1,29 @@
+{
+  "name": "assign_04",
+  "version": "1.0.0",
+  "description": "------------------------ This is a todoList app which do the following functions: 1. Add an item to the list 2. Delete an item from the list 3. Marks an item as completed 4. Resets an item if it needs to be done again",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/http-server"
+
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpreet/js_assign_04.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpreet/js_assign_04/issues"
+  },
+  "homepage": "https://github.com/dpreet/js_assign_04#readme",
+  "devDependencies": {
+    "eslint": "^3.17.1",
+    "http-server": "^0.9.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
